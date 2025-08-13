@@ -1,3 +1,3 @@
-# Predicción de Ingresos con Regresión Lasso
+# **Aplicación Práctica para el Manual de Machine Learning en Ciencias Sociales**
 
-**Aplicación Práctica para el Manual de Machine Learning en Ciencias Sociales**
+
